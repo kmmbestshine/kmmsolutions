@@ -32,10 +32,10 @@ class BlogController extends Controller
                     $value->videos=$videos1;
                     
                 }
-                foreach ($videos1 as $key => $value) {
-                       $titlecounts[]=$value->title;
-                       $locatvideo[]=$value->location;
-                    }
+              //  foreach ($videos1 as $key => $value) {
+                    //   $titlecounts[]=$value->title;
+                     //  $locatvideo[]=$value->location;
+                   // }
 
                   
 
